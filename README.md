@@ -1,1 +1,1 @@
-This is the repo to track the daily progress of zDSA and leetcode problem
+This is the repo to track the daily progress of DSA and leetcode problem
